@@ -1,8 +1,8 @@
 const userData = [
   {
-    userName: "Sofia Osorio",
-    userDesc: "Web Developer",
-    userPic: "https://github.com/SofiDevO.png",
+    userName: "PlOszukiwacz",
+    userDesc: "Fullstack Developer",
+    userPic: "https://github.com/PlOszukiwaczDEV.png",
     userPicDark: "/img/pedro_raccon.gif",
   },
 ];
@@ -12,47 +12,27 @@ const userData = [
 
 const socialLinks = [
   {
-    socialName: "LinkedIn",
-    socialUl: "#",
-    socialIcon: "mingcute:linkedin-fill",
-  },
-  {
     socialName: "GitHub",
-    socialUl: "https://github.com/SofiDevO/allmylinks",
+    socialUl: "https://github.com/PlOszukiwaczDEV",
     socialIcon: "fa6-brands:github-alt",
   },
-  {
-    socialName: "Instagram",
-    socialUl: "#",
-    socialIcon: "ri:instagram-fill",
-  },
+
   {
     socialName: "X",
-    socialUl: "#",
+    socialUl: "https://x.com/ploszukiwacz",
     socialIcon: "prime:twitter",
-  },
-  {
-    socialName: "Whatsapp",
-    socialUl: "#",
-    socialIcon: "mingcute:whatsapp-fill",
-  },
+  }
 ];
 
 const userLinks = [
     {
         title: "Portfolio",
-        link:"https://itssofi.dev/",
+        link:"https://ploszukiwacz.pl",
         icon:"ant-design:code-filled"
     },
     {
-        title: "Sucríbete a mi canal",
-        link:"https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw",
-        icon:"mingcute:youtube-fill"
-
-    },
-    {
-        title: "Únete a Discord",
-        link:"https://discord.com/invite/wjERezH2",
+        title: "Join my dead discord",
+        link:"https://discord.gg/zXFspU4qDu",
         icon:"ic:outline-discord"
     },
 ]
